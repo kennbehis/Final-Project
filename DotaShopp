@@ -1,0 +1,272 @@
+for index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="utf-8">
+    <title>DotaShopp</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+    <div class="header">
+    <div class="container">
+    <div class="navbar">
+        <div class="logo">
+    <img src="Images/logo1.jpg" width="110px">
+    </div>
+    <nav>
+        <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">Items</a></li>    
+        <li><a href="">About</a></li>
+        <li><a href="">Contact Us</a></li>
+        <li><a href="">Steam</a></li>
+                </ul>
+            </nav>
+       <img src="Images/steampink.jpg" width="50px" height="50px";>
+        </div>
+        <div class="row">
+             <div class="col-2">
+                <h1>Buy Dota2 items at a <br>cheaper price!</h1>
+                <p>Be smart about your purchases</p>
+            <a href="" class="btn">Get items now! &#8594;</a>
+            </div>
+               <div class="col-2"> 
+            <img src="Images/templaaaaar.jpg">
+            </div>
+        </div>
+    </div>
+   </div>
+  
+        <!--------featured items----------->
+        <div class="catergories">
+        <div class="small-container">
+            <div class="row">
+             <div class="col-3">
+        <img src="Images/ufufufuf.jpg" width="700px" height="300px">
+        </div>
+        <div class="col-3">
+            <img src="Images/is.jpg" width="700px" height="300px">
+        </div>
+             <div class="col-3">
+        <img src="Images/fun.jpg" width="700px" height="300px">
+        </div>
+            </div>
+            </div>
+            
+        </div>
+    <!--------featured immortals----------->
+        <div class="small-container">
+            <h2 class="title">Featured Items</h2>
+            <div class="row">
+            <div class="col-4">
+                <img src="Images/golden%20bashers.jpg">
+                <h4>Golden Basher Blades</h4>
+        <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-o"></i>
+                </div>        
+                <p>₱2000</p>
+                </div>
+                <div class="col-4">
+                <img src="Images/tbarcana.jpg" width="237x" height="159px">
+                <h4>Terror Blade Arcana</h4>
+        <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-o"></i>
+                </div>        
+                <p>₱900</p>
+                </div>
+                <div class="col-4">
+                <img src="Images/maceof%20aeons.png"width="237x" height="159px">
+                <h4>Mace of Aeons</h4>
+        <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+                <i class="fa fa-star-o"></i>
+                </div>        
+                <p>₱8000</p>
+                </div>
+                <div class="col-4">
+                <img src="Images/ogre%20arcana.jpg">
+                <h4>Ogre Magi Arcana</h4>
+        <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+                <i class="fa fa-star-o"></i>
+                </div>        
+                <p>₱900</p>
+                </div>
+            </div>
+                                <h2 class="title">Latest Items</h2>
+        <div class="row">
+            <div class="col-4">
+                <img src="Images/ampersona.jpg" width="237x" height="159px">
+                <h4>Anti Mage Persona</h4>
+        <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-o"></i>
+                </div>        
+                <p>₱2000</p>
+                </div>
+                <div class="col-4">
+                <img src="Images/wkarcana.jpg" width="237x" height="159px">
+                <h4>Wraith King Arcana</h4>
+        <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-o"></i>
+                </div>        
+                <p>₱1900</p>
+                </div>
+                <div class="col-4">
+                <img src="Images/qop%20arcana.jpg" width="237x" height="159px">
+                <h4>Queen of pain Arcana </h4>
+        <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+                <i class="fa fa-star-o"></i>
+                </div>        
+                <p>₱8000</p>
+                </div>
+                <div class="col-4">
+                <img src="Images/wrarcana.png">
+                <h4>Wind Ranger Arcana</h4>
+        <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+                <i class="fa fa-star-o"></i>
+                </div>        
+                <p>₱900</p>
+                </div>
+            </div>
+        </div>
+            
+    <!-----------------offer-------->
+<div class="offer">
+        <div class="small-container">
+            <div class="row">
+            <div class="col-2">
+                <img src="Images/darkartistery.jpg" class="offer-img">
+                </div>
+            <div class="col-2">
+                <p>Exclusive for a limited offer!</p>
+                <h1>Dark Artistery</h1>
+                <small>he head piece comes with two selectable styles. The second style shares the same appearance and customizations as Magus Apex, with slightly different textures. 1 Set items 2 Styles 3 Customizations 3.1 Ability icon 4 Gallery Dark Artistry Cape Dark Artistry Hair Dark</small>
+                <a href="" class="btn">Buy now! &#8594</a>
+            </div>
+            </div>
+        </div>
+        </div>
+        
+   <!---------- testimonial------->
+      <div class="testimonial">
+        <div class="small-container">
+          <div class="row">
+            <div class="col-3">
+                <i class="fa fa-quote-left"></i>
+              <p>Malakas presensya mo sa Dota pag may Dark Artistery ka</p>
+                <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+                <i class="fa fa-star-o"></i>
+                </div> 
+                <img src="Images/edcaluag.jpg">
+                <h3>Ed Caluag</h3>
+              </div>
+              <div class="col-3">
+                <i class="fa fa-quote-left"></i>
+              <p>Di umano, Lalakas ka sa dota pag may Dark artistery ka</p>
+                <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+                <i class="fa fa-star-o"></i>
+                </div> 
+                <img src="Images/jessica-soho.jpg">
+                  <h3>Jessica Soho</h3>
+              </div>
+               <div class="col-3">
+                <i class="fa fa-quote-left"></i>
+              <p>Shift to Dota na</p>
+                <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+                <i class="fa fa-star-o"></i>
+                </div> 
+                <img src="Images/faker.jpg">
+                  <h3>Faker(lol player)</h3>
+              </div>
+            </div>
+          </div>
+        </div>  
+        <!---------------------Brands-----><!---------------------Brands----->
+        
+        <div class="Brands">
+          <div class="small-container">
+            <div class="row">
+              <div class="col-5">
+                 <img src="Images/razer.jpg"width="200px" height="100px">
+                </div>
+                 <div class="col-5">
+                 <img src="Images/paypal.jpg"width="200px" height="100px">
+                </div>
+                 <div class="col-5">
+                 <img src="Images/republic.jpg"width="200px" height="100px">
+                </div>
+                 <div class="col-5">
+                 <img src="Images/logitech.jpg"width="200px" height="100px">
+                </div>
+                 <div class="col-5">
+                 <img src="Images/ssssteeeam.png"width="200px" height="100px">
+                </div>
+               
+              </div>
+        </div>  
+</div>
+       
+        <!---------------------footer----->    
+        
+    <div class="footer">
+        <div class="container">
+        <div class="footer-col-1">
+            <h3>Download our App</h3>
+            <p>Download our app to get discounts!</p>
+            </div>
+        </div>
+        </div>
+        
+        
+        
+        
+        
+    </body>
+    </html>
+
+
